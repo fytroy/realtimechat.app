@@ -21,7 +21,7 @@ const Config = {
 
     // Current environment - change this based on your deployment
     // Options: 'development', 'staging', 'production'
-    ENVIRONMENT: 'production',
+    ENVIRONMENT: 'development',
 
     // WebSocket configuration
     WS_CONFIG: {
